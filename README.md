@@ -8,6 +8,9 @@ For topic modeling we used Gensim LDA, Mallet LDA, document similarity analysis 
 We ran the notebooks on cheaha and kaggle.
 # several helpful packages to load
 #!wget http://mallet.cs.umass.edu/dist/mallet-2.0.8.zip
+pip install top2vec
+pip install bertopic
+
 
 python3 -m spacy download en
 
