@@ -8,5 +8,6 @@ Topic modeling using Gensim LDA, Mallet LDA, Paper similarity analysis using TF-
 We ran the notebooks on cheaha and kaggle.
 # several helpful packages to load
 #!wget http://mallet.cs.umass.edu/dist/mallet-2.0.8.zip
-#python3 -m spacy download en
+
+python3 -m spacy download en
 
